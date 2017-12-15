@@ -18,5 +18,12 @@ social:
     url: http://linkedin.com/in/nlevey
 
 # Build settings
-markdown: kramdown
 permalink: pretty
+
+markdown: kramdown
+kramdown:
+    input: GFM
+
+# Gems
+plugins:
+  - jekyll-sitemap
