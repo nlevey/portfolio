@@ -1,0 +1,22 @@
+# Site settings
+title: "Natasha Levey"
+email: natasha@alicorn.io
+url: https://nlevey.github.io/portfolio
+description: "Natasha is an aspiring software engineer studying computer science and professional writing at WPI. In her free time, she enjoys playing drums in the WPI Pep Band and adventuring with her friends."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: "Natasha Levey"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: http://linkedin.com/in/nlevey
+
+# Build settings
+markdown: kramdown
+permalink: pretty
